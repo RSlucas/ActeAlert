@@ -1,17 +1,51 @@
-# acte_alert
+# ActeAlert
 
-A new Flutter project.
+ActeAlert is a modern Flutter mobile app designed to help users manage important documents and receive reminders before they expire.
 
-## Getting Started
+The app offers a clean UI, local storage, smart notifications, categories, search, onboarding, and customizable reminders.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Add and manage important documents
+- Expiration date tracking
+- Smart local notifications
+- Custom reminder days
+- Categories and filters
+- Search functionality
+- Edit and delete documents
+- Persistent local storage
+- Modern onboarding screens
+- Clean and responsive UI
+- Android support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Built With
+
+- Flutter
+- Dart
+- Shared Preferences
+- Flutter Local Notifications
+
+---
+
+## Screenshots
+
+_Add screenshots here later._
+
+---
+
+## Future Improvements
+
+- OCR / document scanning
+- Firebase cloud sync
+- User accounts
+- Backup & restore
+- Dark mode
+- iOS optimization
+- Google Play release
+
+---
+
