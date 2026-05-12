@@ -6,6 +6,15 @@ The app offers a clean UI, local storage, smart notifications, categories, searc
 
 ---
 
+## Review
+
+![Home](reviewActeAlert.png)
+
+
+
+---
+
+
 ## Features
 
 - Add and manage important documents
@@ -29,11 +38,6 @@ The app offers a clean UI, local storage, smart notifications, categories, searc
 - Shared Preferences
 - Flutter Local Notifications
 
----
-
-## Screenshots
-
-_Add screenshots here later._
 
 ---
 
@@ -49,3 +53,10 @@ _Add screenshots here later._
 
 ---
 
+---
+
+## License
+
+All rights reserved.
+
+This project and its source code may not be copied, modified, redistributed, or published without explicit permission from the author.
